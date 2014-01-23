@@ -5,7 +5,8 @@ void setup() {
   background(255);
   smooth();
   noStroke();
-  fill(255,0,0);
+  
+  fill(0,255,0);
   ellipse(width/2, height/2, 50, 50);
   
   fill(255);
